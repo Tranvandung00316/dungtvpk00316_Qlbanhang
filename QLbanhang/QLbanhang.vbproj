@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2C7EB9F9-0CD2-40CF-958F-E579A357FE19}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>QLbanhang.My.MyApplication</StartupObject>
+    <RootNamespace>QLbanhang</RootNamespace>
+    <AssemblyName>QLbanhang</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>QLbanhang.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>QLbanhang.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dangnhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dangnhap.Designer.vb">
+      <DependentUpon>Dangnhap.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doanhthu.Designer.vb">
+      <DependentUpon>Doanhthu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Doanhthu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print.Designer.vb">
+      <DependentUpon>Print.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Print.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khachhang.Designer.vb">
+      <DependentUpon>Khachhang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Khachhang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loaisanpham.Designer.vb">
+      <DependentUpon>Loaisanpham.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loaisanpham.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhanvien.Designer.vb">
+      <DependentUpon>Nhanvien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nhanvien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhasanxuat.Designer.vb">
+      <DependentUpon>Nhasanxuat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nhasanxuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLchitiethoadon.Designer.vb">
+      <DependentUpon>QLchitiethoadon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QLchitiethoadon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hethong.Designer.vb">
+      <DependentUpon>Hethong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hethong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="QLhoadon.Designer.vb">
+      <DependentUpon>QLhoadon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QLhoadon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sanpham.Designer.vb">
+      <DependentUpon>Sanpham.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sanpham.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Dangnhap.resx">
+      <DependentUpon>Dangnhap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doanhthu.resx">
+      <DependentUpon>Doanhthu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print.resx">
+      <DependentUpon>Print.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khachhang.resx">
+      <DependentUpon>Khachhang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loaisanpham.resx">
+      <DependentUpon>Loaisanpham.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhanvien.resx">
+      <DependentUpon>Nhanvien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhasanxuat.resx">
+      <DependentUpon>Nhasanxuat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLchitiethoadon.resx">
+      <DependentUpon>QLchitiethoadon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hethong.resx">
+      <DependentUpon>Hethong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLhoadon.resx">
+      <DependentUpon>QLhoadon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sanpham.resx">
+      <DependentUpon>Sanpham.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1422381845_preferences-desktop-cryptography.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1422382337_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1422382424_Gnome-Application-Exit-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1422388953_print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1422390839_print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1422429703_Item_3D-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1422429758_Item_3D-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_FPT_Polytechnic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1422431235_Admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1422431314_xfce-system-settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banhangonline.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

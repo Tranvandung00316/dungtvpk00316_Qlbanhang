@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+QLbanhang
+</name>
+</assembly>
+<members>
+<member name="P:QLbanhang.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:QLbanhang.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:QLbanhang.My.Resources.Resources._1422381845_preferences_desktop_cryptography">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLbanhang.My.Resources.Resources._1422382337_login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLbanhang.My.Resources.Resources._1422382424_Gnome_Application_Exit_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLbanhang.My.Resources.Resources._1422388953_print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLbanhang.My.Resources.Resources._1422390839_print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLbanhang.My.Resources.Resources._1422429703_Item_3D_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLbanhang.My.Resources.Resources._1422429758_Item_3D_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLbanhang.My.Resources.Resources._1422431235_Admin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLbanhang.My.Resources.Resources._1422431314_xfce_system_settings">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLbanhang.My.Resources.Resources.banhangonline">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLbanhang.My.Resources.Resources.Logo_FPT_Polytechnic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:QLbanhang.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

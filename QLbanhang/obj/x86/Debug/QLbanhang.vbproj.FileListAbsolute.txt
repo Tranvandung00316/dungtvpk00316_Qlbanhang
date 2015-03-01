@@ -1,0 +1,82 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\QLbanhang\obj\x86\Debug\QLbanhang.frmdangnhap.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\QLbanhang\obj\x86\Debug\QLbanhang.frmhethong.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\QLbanhang\obj\x86\Debug\QLbanhang.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\QLbanhang\obj\x86\Debug\QLbanhang.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\QLbanhang\bin\Debug\QLbanhang.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\QLbanhang\bin\Debug\QLbanhang.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\QLbanhang\bin\Debug\QLbanhang.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\QLbanhang\obj\x86\Debug\QLbanhang.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\QLbanhang\obj\x86\Debug\QLbanhang.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\QLbanhang\obj\x86\Debug\QLbanhang.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\QLbanhang\obj\x86\Debug\QLbanhang.frmchitiethoadon.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\QLbanhang\obj\x86\Debug\QLbanhang.frmhoadon.resources
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.exe
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.xml
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.pdb
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\bin\Debug\QLbanhang.exe
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\bin\Debug\QLbanhang.pdb
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\bin\Debug\QLbanhang.xml
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmdangnhap.resources
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmchitiethoadon.resources
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmhethong.resources
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.Resources.resources
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmhoadon.resources
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.vbproj.GenerateResource.Cache
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmkhachhang.resources
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmloaisanpham.resources
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmnhanvien.resources
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmnhasanxuat.resources
+H:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmsanpham.resources
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.exe
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.xml
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.pdb
+E:\VB\QLbanhang\QLbanhang\bin\Debug\QLbanhang.exe
+E:\VB\QLbanhang\QLbanhang\bin\Debug\QLbanhang.pdb
+E:\VB\QLbanhang\QLbanhang\bin\Debug\QLbanhang.xml
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmdangnhap.resources
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmkhachhang.resources
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmloaisanpham.resources
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmnhanvien.resources
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmnhasanxuat.resources
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmchitiethoadon.resources
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmhethong.resources
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.Resources.resources
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmhoadon.resources
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.frmsanpham.resources
+E:\VB\QLbanhang\QLbanhang\obj\x86\Debug\QLbanhang.vbproj.GenerateResource.Cache
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.exe
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.xml
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.pdb
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\bin\Debug\QLbanhang.exe
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\bin\Debug\QLbanhang.pdb
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\bin\Debug\QLbanhang.xml
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.frmdangnhap.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.frmkhachhang.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.frmloaisanpham.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.frmnhanvien.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.frmnhasanxuat.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.frmchitiethoadon.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.frmhethong.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.Resources.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.frmhoadon.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.frmsanpham.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\VB\QLbanhang\obj\x86\Debug\QLbanhang.vbproj.GenerateResource.Cache
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.exe
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.xml
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.pdb
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\bin\Debug\QLbanhang.exe
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\bin\Debug\QLbanhang.pdb
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\bin\Debug\QLbanhang.xml
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmdangnhap.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmkhachhang.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmloaisanpham.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmnhanvien.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmnhasanxuat.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmchitiethoadon.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmhethong.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.Resources.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmhoadon.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmsanpham.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.vbproj.GenerateResource.Cache
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmdoanhthu.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmprint.resources
