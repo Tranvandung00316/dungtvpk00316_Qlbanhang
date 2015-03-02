@@ -80,3 +80,6 @@ G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ
 G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.vbproj.GenerateResource.Cache
 G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmdoanhthu.resources
 G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM_INF205\QLbanhang\obj\x86\Debug\QLbanhang.frmprint.resources
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM\QLbanhang\obj\x86\Debug\QLbanhang.exe
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM\QLbanhang\obj\x86\Debug\QLbanhang.xml
+G:\TỔNG HỢP HỌC TẬP\Điện toán đám mây\dungtvpk00316_AssingmentGĐ2_ĐTĐM\QLbanhang\obj\x86\Debug\QLbanhang.pdb
